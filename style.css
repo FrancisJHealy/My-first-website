@@ -14,4 +14,7 @@ p{
   color: red;
   text-align: center;
 }
-  
+  .imageContainer {
+  float: left;
+  width: 200px;
+}
