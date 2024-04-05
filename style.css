@@ -14,10 +14,7 @@ p, li{
   color: red;
   text-align: center;
 }
-  .imageContainer {
-  float: center;
-  width: 200px;
-}
+ 
 .pageContainer {
   width: 940px;
   margin: 20px auto 0 auto;
