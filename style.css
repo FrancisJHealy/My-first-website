@@ -24,3 +24,7 @@ p, li{
 li{
   color: green;
 }
+ .imageContainer {
+  float: center;
+  width: 200px;
+}
