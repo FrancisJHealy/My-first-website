@@ -5,7 +5,7 @@ h1 {
   text-align:center;
 }
 img {
-  width:  100%;
+  width:  50%;
   text-aligned: center;
 }
 p, li{
@@ -22,7 +22,5 @@ p, li{
   background-color: #fff;
 }
 li{
-  
-  
   color: green;
 }
