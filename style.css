@@ -7,4 +7,9 @@ h1 {
 img {
   width:  50%;
 }
+p{
+  font-family: italic;
+  font-size: 22px;
+  color: red;
+}
   
