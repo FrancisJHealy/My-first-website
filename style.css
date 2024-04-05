@@ -18,3 +18,8 @@ p{
   float: left;
   width: 200px;
 }
+.pageContainer {
+  width: 940px;
+  margin: 20px auto 0 auto;
+  padding: 20px;
+  background-color: #fff;
