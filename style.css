@@ -12,7 +12,7 @@ p, li{
   font-family: italic;
   font-size: 35px;
   color: red;
-  text-align: center;
+  text-align: left;
 }
  
 .pageContainer {
@@ -25,6 +25,6 @@ li{
   color: green;
 }
  .imageContainer {
-  float: center;
+  float: right;
   width: 200px;
 }
