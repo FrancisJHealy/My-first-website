@@ -8,7 +8,7 @@ img {
   width:  100%;
   text-aligned: center;
 }
-p{
+p, li{
   font-family: italic;
   font-size: 35px;
   color: red;
