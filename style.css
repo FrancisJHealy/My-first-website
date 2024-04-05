@@ -24,3 +24,7 @@ p, li{
 li{
   color: green;
 }
+.imageContainer {
+height:250px;
+  width: 200px;
+}
