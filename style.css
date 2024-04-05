@@ -15,7 +15,7 @@ p{
   text-align: center;
 }
   .imageContainer {
-  float: left;
+  float: center;
   width: 200px;
 }
 .pageContainer {
