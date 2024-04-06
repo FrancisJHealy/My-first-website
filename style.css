@@ -52,16 +52,16 @@ li{
 }
 footer{        /*footer*/
   text-align: left;
-  color:black
+  color:black;
 }
 .text-centered {
   text-align: center;
 }
 .box {
-  margin:5px 40%;
+  margin:5px 30%;
   background-color: lightyellow;
   padding: 10px;
-  font-family: arial, sans-serif;
+  font-family: arial;
   text-align: center;
 }
 .ridge  {  border: 10px ridge gray;  }
