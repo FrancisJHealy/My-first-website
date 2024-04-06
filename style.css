@@ -10,9 +10,10 @@ h2{
   color: darkgreen;
   text-align: center;
 }
-h3{font-family: ariel;
+h3{
+  font-family: ariel;
   font-size: 40px;
-  color: darkgreen;
+  color: darkgrey;
   text-align: center;
   }
   
