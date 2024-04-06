@@ -4,6 +4,12 @@ h1 {
   color green;
   text-align:center;
 }
+h2{
+  font-family: ariel;
+  font-size: 40px;
+  color: darkgreen;
+  text-align: center;
+}
 img {
   width:  100%;
   text-aligned: left;
