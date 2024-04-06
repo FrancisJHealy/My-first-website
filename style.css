@@ -28,7 +28,7 @@ p, li{        /*list of bullet points*/
   text-align: left;
 }
 hr{
-  height: 20px;
+  height: 40px;
 }
 a:link{
   color: blue;
