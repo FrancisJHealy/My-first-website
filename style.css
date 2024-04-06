@@ -57,5 +57,12 @@ footer{        /*footer*/
 .text-centered {
   text-align: center;
 }
-
+.box {
+  margin: 20px 10%;
+  background-color: #eee;
+  padding: 10px;
+  font-family: arial, sans-serif;
+  text-align: center;
+}
+.ridge  {  border: 10px ridge gray;  }
 
