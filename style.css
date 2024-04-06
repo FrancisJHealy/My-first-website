@@ -27,19 +27,18 @@ p, li{        /*list of bullet points*/
   color: red;
   text-align: left;
 }
-hr {
+hr {    /* create a line with size and color*/
   height: 4px;
-  background-color: white;
+  background-color: tan;
   border: 2px solid black;
-      /* size style color */
   margin-top: 80px;
   margin-bottom: 80px;
 }
 
-a:link{
+a:link{  /* links will be blue*/
   color: blue;
 }
-a:hover{
+a:hover{    /* when you hover over the link it will turn darkgreen*/
   color:darkgreen;
 }
 li{
