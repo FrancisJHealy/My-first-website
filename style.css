@@ -14,6 +14,9 @@ p, li{
   color: red;
   text-align: left;
 }
+hr{
+  height: 6px;
+}
  
 
 li{
