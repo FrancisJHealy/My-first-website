@@ -43,4 +43,11 @@ li{
   float: right;
   width: 200px;
 }
-
+.dark-background {
+  background-color: #1E1E1E;
+  color: white;
+}
+.wrapper {
+  width: 300px;
+  margin: auto;
+}
