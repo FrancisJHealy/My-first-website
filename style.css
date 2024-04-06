@@ -36,23 +36,4 @@ li{
   float: right;
   width: 200px;
 }
-.btn {
-  display: inline-block;
-  font-family: arial, sans-serif;
-  font-size: 16px;
-  text-align: center;
-  text-decoration: none;
-  margin: 10px;
-  padding: 6px 12px;
-  border-radius: 6px;
-}
-.btn-primary {
-  color: black;
-  background-color: light-blue;
-  border-color: #2e6da4;
-}
-.btn-success {
-  color: black;
-  background-color: green;
-  border-color: green;
-}
+
