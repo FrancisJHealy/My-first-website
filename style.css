@@ -1,10 +1,10 @@
-h1 {
+h1 {           /*main heading */
   font-family: ariel;
   font-size: 85px;
   color: green;
   text-align:center;
 }
-h2{
+h2{        /* second header*/
   font-family: ariel;
   font-size: 25px;
   color: darkgreen;
@@ -21,7 +21,7 @@ img {
   width:  100%;
   text-aligned: left;
 }
-p, li{
+p, li{        /*list of bullet points*/
   font-family: italic;
   font-size: 35px;
   color: red;
@@ -43,7 +43,7 @@ li{
   float: right;
   width: 200px;
 }
-footer{
+footer{        /*footer*/
   text-align: center;
   color:black
 }
