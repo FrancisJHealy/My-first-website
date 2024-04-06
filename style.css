@@ -1,15 +1,21 @@
 h1 {
-  font-family: timesroman
-  font-size: 100px;
+  font-family: times-roman
+  font-size: 120px;
   color green;
   text-align:center;
 }
 h2{
   font-family: ariel;
-  font-size: 40px;
+  font-size: 25px;
   color: darkgreen;
   text-align: center;
 }
+h3{font-family: ariel;
+  font-size: 40px;
+  color: darkgreen;
+  text-align: center;
+  }
+  
 img {
   width:  100%;
   text-aligned: left;
