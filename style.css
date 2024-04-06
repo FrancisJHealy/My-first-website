@@ -15,12 +15,7 @@ p, li{
   text-align: left;
 }
  
-.pageContainer {
-  width: 940px;
-  margin: 20px auto 0 auto;
-  padding: 20px;
-  background-color: #fff;
-}
+
 li{
   color: brown;
 }
