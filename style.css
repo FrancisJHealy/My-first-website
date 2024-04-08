@@ -76,7 +76,7 @@ li{
 }
 footer{        /*footer*/
   width: 400px;
-  color:black;
+  color:black !important;
 }
 .text-centered {
   text-align: center;
