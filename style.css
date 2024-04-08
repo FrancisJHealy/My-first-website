@@ -62,6 +62,7 @@ hr {    /* create a line with size and color*/
 
 a:link{  /* links will be blue*/
   color: blue;
+  font-size: 33px;
 }
 a:hover{    /* when you hover over the link it will turn darkgreen*/
   color:darkgreen;
