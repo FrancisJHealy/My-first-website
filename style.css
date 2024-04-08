@@ -26,11 +26,11 @@ h3{
   text-align: center;
   }
 .dark-background {
-  background-color: lightgreen;
+  background-color: lightred;
   color: white;
 }
 .wrapper {
-  width: 150px;
+  width: 300px;
   margin: auto;
 }
 
