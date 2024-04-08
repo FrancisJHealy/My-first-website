@@ -1,5 +1,6 @@
 .pageContainer {
   width: 940px;
+  height: 500px;
   margin: 20px auto 0 auto;
   padding: 20px;
   background-color: yellow;
@@ -47,7 +48,7 @@ img {
 }
 .imageContainer {
   float: right;
-  width: 400px;
+  width: 300px;
 }
 p, li{        /*list of bullet points*/
   font-family: italic;
