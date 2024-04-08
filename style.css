@@ -93,5 +93,10 @@ footer{        /*footer*/
 }
 .ridge  {  border: 10px ridge gray;  }
 
+.dark-background {
+  background-color: #1E1E1E;
+  color: white;
+}
+
 
 
