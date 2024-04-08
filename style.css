@@ -48,6 +48,7 @@ img {
 }
 .imageContainer {
   float: right;
+  height: 300px;
   width: 300px;
 }
 p, li{        /*list of bullet points*/
