@@ -70,9 +70,10 @@ a:hover{    /* when you hover over the link it will turn darkgreen*/
 li{
   color: brown;
 }
- .imageContainer {
-  
-  width: 300px;
+.imageContainer {
+  float: left;
+  width: 620px;
+}
 }
 footer{        /*footer*/
   width: 800px;
