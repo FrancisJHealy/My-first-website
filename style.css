@@ -48,8 +48,8 @@ img {
 }
 .imageContainer {
  text-align: center;
-  height: 100px;
-  width: 100px;
+  height: 300px;
+  width: 300px;
 }
 p, li{        /*list of bullet points*/
   font-family: italic;
