@@ -45,6 +45,10 @@ img {
   width:  50%;
   text-aligned: center;
 }
+.imageContainer {
+  float: right;
+  width: 400px;
+}
 p, li{        /*list of bullet points*/
   font-family: italic;
   font-size: 35px;
@@ -70,11 +74,8 @@ a:hover{    /* when you hover over the link it will turn darkgreen*/
 li{
   color: brown;
 }
-.imageContainer {
-  float: right;
-  width: 400px;
-}
-}
+
+
 footer{        /*footer*/
   width: 800px;
   color:black !important;
