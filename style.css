@@ -25,6 +25,14 @@ h3{
   color: darkgrey;
   text-align: center;
   }
+.dark-background {
+  background-color: #1E1E1E;
+  color: white;
+}
+.wrapper {
+  width: 300px;
+  margin: auto;
+}
 
 .textContainer {
   float: left;
