@@ -43,7 +43,7 @@ h3{
   
 img {
   width:  100%;
-  text-aligned: left;
+  text-aligned: center;
 }
 p, li{        /*list of bullet points*/
   font-family: italic;
@@ -71,7 +71,7 @@ li{
   color: brown;
 }
  .imageContainer {
-  text-aligned: right;
+  float: right;
   width: 300px;
 }
 footer{        /*footer*/
